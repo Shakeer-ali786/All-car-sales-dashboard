@@ -29,4 +29,6 @@ And third one is preparing a column and bar chart, colum chart is shown in brand
 
 # Screenshoot / Demo
 
-Screen shoot link : (
+Screen shoot link : (https://github.com/Shakeer-ali786/All-car-sales-dashboard/blob/main/cars%20dashboard.png) 
+
+Dashboard link : (
