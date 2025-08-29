@@ -31,5 +31,5 @@ And third one is preparing a column and bar chart, colum chart is shown in brand
 
 Screen shoot link : (https://github.com/Shakeer-ali786/All-car-sales-dashboard/blob/main/cars%20dashboard.png) 
 
-Dashboard link : (https://github.com/Shakeer-ali786/All-car-sales-dashboard/blob/main/CARS%20sales%20dash%20board.pbit) 
+Dashboard link : https://app.powerbi.com/groups/me/reports/d8522e3b-5078-4d4b-ba88-0dde97b17e2b/d469fd63050d87094a50?experience=power-bi 
 
